@@ -79,7 +79,7 @@ def minimax(tabuleiro, profundidade, e_maximizando, alfa, beta, simbolo_ia, simb
                     tabuleiro[i][j] = " "                   # Desfaz a jogada
                     melhor_score = min(score, melhor_score)
                     beta = min(beta, melhor_score)
-                    # Poda Alfa: ignoramos o caminho pois a IA nunca escolheria
+                    # Poda Beta: ignoramos o caminho pois a IA nunca escolheria
                     if beta <= alfa:
                         break
 
