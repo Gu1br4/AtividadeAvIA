@@ -6,7 +6,7 @@ O agente avalia todas as jogadas possíveis e sempre toma a melhor decisão poss
 
 # Integrantes:
     Felipe Nonato Leoneli		  RA: 24021973 
-    Guilherme Braz Lourenço	      RA: 24000000 
+    Guilherme Braz Lourenço	      RA: 24019760
     Rafael Roveri Pires			  RA: 24007131
 # Como rodar:
   **Pré-requisito: Python 3 instalado.**
